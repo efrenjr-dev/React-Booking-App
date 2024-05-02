@@ -1,5 +1,20 @@
 .App {
-  text-align: center;
+    text-align: center;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cardHighlights {
+    min-height: 100%;
+}
+
+.cardCourse {
+    /* width: 18rem; */
+    margin-top: 1rem;
 }
 
 /* .App-header {
