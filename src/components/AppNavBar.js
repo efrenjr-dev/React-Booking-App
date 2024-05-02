@@ -5,7 +5,7 @@ export default function AppNavBar() {
     return ( <>
         <Navbar expand="lg" bg="light" data-bs-theme="light">
       <Container>
-        <Navbar.Brand as={Link} to="/">React-Bootstrap</Navbar.Brand>
+        <Navbar.Brand as={Link} to="/">Booking App</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
